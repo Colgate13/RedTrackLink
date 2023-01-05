@@ -1,2 +1,2 @@
-# flufflyLink
+# RedTrackLink
 Create Curte link and tracking
